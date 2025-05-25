@@ -32,14 +32,12 @@ while True:
     print("Server > ",s.recv(1024).decode())
 ```
 ## OUTPUT
-## CLIENT 
+
 
 ![image](https://github.com/user-attachments/assets/6a7fc1f0-e1d5-4955-b387-33f346a67105)
 
 
-## SERVER
 
-![image](https://github.com/user-attachments/assets/ba4d60b8-9aeb-4d1c-92c4-1d1442dc9f26)
 
 
 
